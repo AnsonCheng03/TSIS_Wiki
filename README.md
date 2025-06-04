@@ -12,7 +12,7 @@ Tutoring Student Management System (TSIS) is a full-stack, multi-role education 
 
 - [Project Overview (SOW)](docs/SOW.md)
 - [Business Requirements (BRD)](docs/BRD.md)
-<!-- - [Project Plan](docs/proj-plan.md) -->
+- [Project Plan](docs/plan.md)
 
 ### 🎨 Design
 

@@ -45,16 +45,8 @@ This system aims to streamline core functions such as class scheduling, attendan
 
 ## Project Timeline (12-Month Plan)
 
-| Phase                         | Month | Milestones                                                                      |
-| ----------------------------- | ----- | ------------------------------------------------------------------------------- |
-| **Planning & Analysis**       | 1–2   | BRD, BDD Scenarios, Architecture, Class Diagram                                 |
-| **Core Infrastructure**       | 3     | GitHub Actions CI/CD, Auth (Keycloak), Outbox Pattern, Pub/Sub messaging        |
-| **Backend Feature Dev I**     | 4–5   | User, Class, Attendance, Notification Services                                  |
-| **Backend Feature Dev II**    | 6–7   | Homework, Billing, AI Feedback, Report Services                                 |
-| **Frontend Dev (Web/Mobile)** | 8–9   | Angular Dashboards + Flutter Student App                                        |
-| **QA Testing**                | 10    | Unit, Integration, E2E Testing (Postman, Cypress, Manual)                       |
-| **UAT & Refinement**          | 11    | User Acceptance Testing, Fixes, UI Polish                                       |
-| **Deployment & Demo**         | 12    | Production Build, K8s Deployment, Walkthrough Video, Documentation Finalization |
+Detailed timelines are documented in the  
+📄 [Project Plan](plan.md)
 
 > 📌 As a personal side project, this schedule is aspirational and may shift based on available time.
 
