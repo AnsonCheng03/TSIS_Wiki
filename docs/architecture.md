@@ -24,3 +24,5 @@
 ## Architectural Decision Records (ADR)
 
 ## System Architecture Diagram
+
+![System Architecture Diagram](./diagram/SystemDiagram.png)
